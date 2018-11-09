@@ -1,0 +1,27 @@
+Cd volumes/Doosje/School/Leerjaar\ 2/Periode\ 1/Univers/werkmap
+
+Ls -ls 		(map)
+
+Cd volumes 	(harde schijf zoeken)
+
+Cd ..tab 	(afkorting)
+
+Mkdir 		(nieuwe map)
+
+Touch 		(nieuw bestand)
+
+Get init 	(git activeren)
+
+Git status	 (git status)
+
+Git add . 	(Add allies)
+
+Ls -al 		(verborgen map zichtbaar maken)
+
+Git config —-global user.email 82124@glr.nl
+
+Git commit -m “..” 	(Versie en veranderingen)
+
+Git log 	(versies zien
+
+Git checkout 	(versies terug halen)
